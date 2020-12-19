@@ -5,5 +5,5 @@ Regression model to predict the list prices for homes in the Albuquerque metropo
 MLR model assumptions are addressed and the best model is selected by using backward elimination and best subsets criteria based on adjusted R^{2} and R^{2}. Also considered the Cp along with forward, stepwise, and BIC criterion.  
 Final model is used to obtain interval estimates.  
 
-Input file is homeprices_csvfile.csv
-MLR CODE.R is the R script 
+Input file is homeprices_csvfile.csv. 
+MLR CODE.R is the R script for analysis. 
